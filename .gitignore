@@ -1,0 +1,36 @@
+# =========================
+# Backend (Spring Boot / Maven)
+# =========================
+BackendSmartmaint/target/
+BackendSmartmaint/.idea/
+BackendSmartmaint/.classpath
+BackendSmartmaint/.project
+BackendSmartmaint/.settings/
+BackendSmartmaint/.vscode/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# =========================
+# Frontend (React con react-scripts)
+# =========================
+Smartmaint-frontend/node_modules/
+Smartmaint-frontend/build/
+Smartmaint-frontend/.env
+Smartmaint-frontend/.env.local
+Smartmaint-frontend/.vscode/
+
+# =========================
+# Base de datos / dumps
+# =========================
+db/*.bak
+db/*.dump
+
+# =========================
+# General (Windows / Mac / IDE)
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
